@@ -13,7 +13,7 @@
   ![GOROJORONBOGOS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GOROJORONBOGOS&theme=dark&hide_border=false)  
   ![GOROJORONBOGOS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GOROJORONBOGOS&theme=dark&show_icons=true&hide_border=false&layout=compact)  
 
-    </td>
+</td>
   </tr>
 </table>
 
