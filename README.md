@@ -21,4 +21,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GOROJORONBOGOS/GOROJORONBOGOS/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/GOROJORONBOGOS/GOROJORONBOGOS/blob/output/github-contribution-grid-snake.svg)
+# ![Snake animation](https://github.com/GOROJORONBOGOS/GOROJORONBOGOS/blob/output/github-contribution-grid-snake.svg)
